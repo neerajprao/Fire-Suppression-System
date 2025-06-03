@@ -148,10 +148,12 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 ## License
 
 This project is open-source and available under the MIT License.
+
 ---
 
 ## Contact
 
-For any questions or inquiries, please feel free to reach out.
+For any questions or inquiries, feel free to reach out:
+**neerajprao113838@gmail.com**
 
 ---
