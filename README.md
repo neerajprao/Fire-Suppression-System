@@ -78,7 +78,8 @@ Refer to the `media/connections.jpg` image for a visual guide on connecting your
 1.  **Clone this Repository (if you haven't already):**
     ```bash
     git clone https://github.com/neerajprao/Fire-Suppression-System
-    cd your-repository-name
+    cd Fire-Suppression-System
+
     ```
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
@@ -133,8 +134,8 @@ A window will open displaying the webcam feed with fire detections and servo/pum
 
 Here are videos demonstrating the project in action:
 
-* **Camera Output & Fire Detection:** [Link to your video demonstrating camera output and fire detection results]
-* **Full Project Working (Hardware in action):** [Link to your video demonstrating the full hardware setup working, including servo movement and pump activation]
+* **Camera Output & Fire Detection:** <video controls src="https://github.com/neerajprao/Fire-Suppression-System/blob/main/media/Webcam%20Output.mp4" title="[Link to the demonstrating camera output and fire detection results]"></video>
+* **Full Project Working (Hardware in action):** <video controls src="https://github.com/neerajprao/Fire-Suppression-System/blob/main/media/Project%20Video.mp4" title="[Link to the video demonstrating the full hardware setup working, including servo movement and pump activation]"></video>
 
 ---
 
@@ -146,8 +147,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE) (or choose your preferred license).
-
+This project is open-source and available under the MIT License.
 ---
 
 ## Contact
